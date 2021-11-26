@@ -1,7 +1,7 @@
 # Swagger-Api
 Node.js | Javascript | Swagger 
 
-Es una Api que echa con Node y Js que a su vez tienes Swagger que puede ser consumida por Cliente Servidor que es Postman
+Es una Api que hecha con Node y Js que a su vez tienes Swagger que puede ser consumida por Cliente Servidor que es Postman
 
 
 <p align="center">
